@@ -5,3 +5,4 @@ if we hear something first time and we don't about that thing, that's ok but thi
 void main() {
   print("seniors' talk");
 }
+//teri maa ki chut 
